@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Seyhan</h1>
-<h3 align="center">A passionate Frontend Developer from Turkey</h3>
+<h3 align="center">I am currently learning Frontend Tools and motivated to be a good Frontend Developer</h3>
 <br/>
 
 -   🔭 I’m currently working on **JS**.
